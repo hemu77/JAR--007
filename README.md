@@ -36,5 +36,5 @@ This assistant incorporates a variety of functionalities, ranging from task auto
 ---
 
 ## Disclaimer
-While JAR 007 is built to provide a seamless experience, its functionality may vary across different browsers. For the experience of latest prototype, please access the assistant at **[https://jar-007-by-shk.netlify.app/](https://jar-007-by-shk.netlify.app/)** using a compatible browser like Chrome or Edge. Certain features might not work optimally on browsers like Brave.
+I am still looking on to the ways of enhancing my porject,so i will be updating my original code in a few days.until then , i will upload my very basic python prototype i worked on at firs for this project.
 
